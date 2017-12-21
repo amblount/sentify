@@ -16,6 +16,8 @@ As code2040 fellows we are black and latino computer science students working in
     + processing the emotions which we feel and putting those feelings into words and experiences
 
 ### Team
+![alt text](https://github.com/amblount/sentify/blob/master/public/IMG_8984.JPG)
+
 1. [Alivia Blount](https://www.linkedin.com/in/aliviablount/) - [@amblount](https://github.com/amblount)
 2. [Eude Lesperance](https://www.linkedin.com/in/lkeude96/) - [@lkeude96](https://github.com/lkeude96)
 3. [Emmanuel Johnson](https://www.linkedin.com/in/johnsonemmanuel/) - [@e-johnson](https://github.com/e-johnson)
