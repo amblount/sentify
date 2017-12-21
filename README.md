@@ -1,6 +1,9 @@
 # sentify
 Sentify is a recommendation engine where Code2040 Fellows can input their emotional state and retrieve a song selection based on input from our trained data set and input from other code2040 fellows. 
 
+At the NIPS conference this year(2017) NVIDIA presented a paper [Audio Driven Facial Animation By Joint End to End Learning of Pose and emotion](https://users.aalto.fi/~laines9/publications/karras2017siggraph_paper.pdf).
+This neural network if made open source could be extremely valuable with applications of sentiment determined by audio. Although the intial drive of the project was to input static images and process emotional state from those having audio input translating to facial animtion could be potentially useful for translating the emotional state of a song being played back to the user for sentiment analysis through video facial examination and recording whether this matches the current results of the model.
+
 # History
 As code2040 fellows we are black and latino computer science students working in top tier technology companies in large cities around the US. We are marginalized in most of the spaces we enter and have to find coping mechanisms to deal with our emotions. We found that music is a great way to deal with and process our feelings but there are a lot of issues with the recommendation engines currently available.
 
